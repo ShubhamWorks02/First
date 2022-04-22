@@ -1,4 +1,3 @@
-import javax.swing.plaf.synth.SynthScrollBarUI;
 
 /**
  * First
